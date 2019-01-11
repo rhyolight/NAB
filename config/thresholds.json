@@ -5,11 +5,11 @@
             "threshold": 0.9813537597656257
         },
         "reward_low_FP_rate": {
-            "score": -108.56073591812678,
+            "score": -108.56073591812675,
             "threshold": 0.9945251464843755
         },
         "standard": {
-            "score": -74.9034705754507,
+            "score": -74.90347057545071,
             "threshold": 0.9845962524414067
         }
     },
@@ -29,15 +29,15 @@
     },
     "expose": {
         "reward_low_FN_rate": {
-            "score": -138.31510519385375,
+            "score": -138.31510519385378,
             "threshold": 0.9935243606567389
         },
         "reward_low_FP_rate": {
-            "score": -108.5970398319597,
+            "score": -108.59703983195969,
             "threshold": 0.9999267578125005
         },
         "standard": {
-            "score": -77.86692739970123,
+            "score": -77.86692739970124,
             "threshold": 0.9947875976562506
         }
     },
@@ -85,15 +85,15 @@
     },
     "numenta": {
         "reward_low_FN_rate": {
-            "score": 26.634450197137568,
+            "score": 26.63445019713757,
             "threshold": 0.5421876907348634
         },
         "reward_low_FP_rate": {
-            "score": 30.431072517124093,
+            "score": 30.431072517124097,
             "threshold": 0.5751955032348636
         },
         "standard": {
-            "score": 46.634450197137596,
+            "score": 46.63445019713758,
             "threshold": 0.5421876907348634
         }
     },
@@ -113,16 +113,16 @@
     },
     "random": {
         "reward_low_FN_rate": {
-            "score": -45.889252239141754,
-            "threshold": 0.9984497070312507
+            "score": -137.34043451378136,
+            "threshold": 0.9976570129394536
         },
         "reward_low_FP_rate": {
-            "score": -40.59422055318891,
-            "threshold": 0.9995117187500009
+            "score": -102.62825701794473,
+            "threshold": 0.9995178222656259
         },
         "standard": {
-            "score": -25.889252239141747,
-            "threshold": 0.9984497070312507
+            "score": -75.03937990013523,
+            "threshold": 0.9982910156250007
         }
     },
     "randomCutForest": {
@@ -141,21 +141,21 @@
     },
     "relativeEntropy": {
         "reward_low_FN_rate": {
-            "score": -27.2288224715,
+            "score": -27.22882247152523,
             "threshold": 0.5
         },
         "reward_low_FP_rate": {
-            "score": -5.57182391716,
+            "score": -5.571823917157029,
             "threshold": 0.5
         },
         "standard": {
-            "score": 10.7711775285,
+            "score": 10.771177528474766,
             "threshold": 0.5
         }
     },
     "skyline": {
         "reward_low_FN_rate": {
-            "score": -77.20605964639174,
+            "score": -77.20605964639172,
             "threshold": 0.8031250000000002
         },
         "reward_low_FP_rate": {
@@ -163,7 +163,7 @@
             "threshold": 0.8996093750000005
         },
         "standard": {
-            "score": -33.206059646391715,
+            "score": -33.20605964639173,
             "threshold": 0.8031250000000002
         }
     },
@@ -183,16 +183,16 @@
     },
     "windowedGaussian": {
         "reward_low_FN_rate": {
-            "score": -98.7538610655,
-            "threshold": 1.0
+            "score": -95.60167036073126,
+            "threshold": 0.9999998092651373
         },
         "reward_low_FP_rate": {
-            "score": -87.9970284629,
-            "threshold": 1.0
+            "score": -160.60310019205397,
+            "threshold": 0.9999998092651373
         },
         "standard": {
-            "score": -44.7538610655,
-            "threshold": 1.0
+            "score": -61.60167036073124,
+            "threshold": 0.9999998092651373
         }
     }
 }
